@@ -1,6 +1,6 @@
 /* 
 	Lemniscate - A little header only graphing library
-	Author : A-Rain-Lover (Yuun)
+	Author : computer-spectre
 
 */
 
