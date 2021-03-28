@@ -1,7 +1,6 @@
 /* 
 	Lemniscate - A little header only graphing library
-	Author : computer-spectre
-
+	Author : hazyuun
 */
 
 
